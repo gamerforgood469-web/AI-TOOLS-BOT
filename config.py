@@ -1,0 +1,9 @@
+import os
+
+TELEGRAM_BOT_TOKEN = os.environ["TELEGRAM_BOT_TOKEN"]
+
+TELEGRAM_CHANNEL = os.environ["TELEGRAM_CHANNEL"]
+
+GEMINI_API_KEY = os.environ["GEMINI_API_KEY"]
+
+GEMINI_MODEL = os.environ["GEMINI_MODEL"]
